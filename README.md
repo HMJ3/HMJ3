@@ -5,8 +5,8 @@ Welcome to my portfolio. Below you'll find links to my projects hosted on GitHub
 ## Projects
 
 1. [Palvelinten Hallinta - Tero Karvisen kurssi, Haaga-Helia](https://github.com/HMJ3/linux-course)
-2. [Robotic Process Automation - UiPath](https://google.com)
-3. [More](https://google.com)
+2. [NGINX - Event Driven Automation (SaltStack Module)](https://github.com/HMJ3/h5-moduuli/tree/main)
+3. [Robotic Process Automation - UiPath](https://google.com)
 
 ## Skills
 Linux - SaltStack - Python - Git - Automation\
