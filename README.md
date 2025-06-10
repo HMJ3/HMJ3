@@ -1,4 +1,4 @@
-# My Portfolio 👋
+# My Portfolio
 
 Welcome to my portfolio. Below you'll find links to my projects hosted on GitHub.
 
@@ -12,7 +12,7 @@ Welcome to my portfolio. Below you'll find links to my projects hosted on GitHub
 - Tekee asetukset pelkkänä tekstinä ja versioitavasti (infrastruktuuri koodina)
 - Pystyy tekemään tavalliset ylläpitotoimet valitulla työkalulla Saltilla (yksi totuus)
 
-## Linkit kurssilla suoritettuihin tehtäviin:**
+## Linkit kurssilla suoritettuihin tehtäviin:
 
 [h1 - Hello Salt](https://github.com/HMJ3/linux-course/blob/main/assignments/h1.md)\
 Master-slave, pull-arkkitehtuuri. Komentojen etäsuoritus (cmd.run, pkg.install). Tietojen kerääminen orjista (grains.items). Esimerkkejä tiloista (file.managed).
@@ -28,8 +28,6 @@ Demonien hallinta Saltilla. Käsin tehtyjen konfiguraatioiden automatisointi.
 
 [h5 - Oma projekti](https://github.com/HMJ3/linux-course/blob/main/assignments/h5.md)\
 Projektin tavoitteena on luoda SaltStackin avulla event driven automaatiomoduuli, joka asentaa ja konfiguroi nginx palvelun. Tämän tehtävä on valvoa sen toimintaa beaconien avulla ja reagoi mahdollisiin häiriöihin reaktorijärjestelmällä.
-
----
 
 <!--
 **HMJ3/HMJ3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
