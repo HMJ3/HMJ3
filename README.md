@@ -14,7 +14,7 @@ Vagrant - Apache - Infrastructure as Code - C#\
 Python - VB - UiPath - Power Automate
 
 ## Contact info
-Email: henrik.einola@gmail.com\
+Email: henrik.einola@proton.me\
 LinkedIn: https://www.linkedin.com/in/henrik-einola/
 
 <!--
