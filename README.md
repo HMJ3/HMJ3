@@ -10,7 +10,8 @@ Welcome to my portfolio. Below you'll find links to my projects hosted on GitHub
 
 ## Skills
 Linux - SaltStack - Python - Git - Automation\
-Vagrant - Apache - Infrastructure as Code
+Vagrant - Apache - Infrastructure as Code - C#\
+Python - VB - UiPath - Power Automate\
 
 ## Contact info
 Email: henrik.einola@gmail.com\
