@@ -2,8 +2,6 @@
 
 Welcome to my portfolio. Below you'll find links to my projects hosted on GitHub.
 
-https://github.com/HMJ3/ProductUploadAutomation
-
 ## Projects
 
 1. [Palvelinten Hallinta - Tero Karvisen kurssi, Haaga-Helia](https://github.com/HMJ3/linux-course)
