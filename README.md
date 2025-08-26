@@ -11,8 +11,8 @@ Welcome to my portfolio. Below you'll find links to my projects hosted on GitHub
 5. [Samba File Server Setup - Video Demonstration (in Finnish)](https://github.com/HMJ3/samba-file-server)
 
 ## Skills
-Linux - SaltStack - Python - Git - Automation\
-Vagrant - Apache - Infrastructure as Code - C#\ 
+Linux - SaltStack - Python - Git - Automation <br>
+Vagrant - Apache - Infrastructure as Code - C# <br>
 VB - UiPath - Power Automate Desktop
 
 ## Contact info
