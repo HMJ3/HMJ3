@@ -1,4 +1,4 @@
-# My Portfolio
+# Portfolio
 
 Welcome to my portfolio. Below you'll find links to my projects hosted on GitHub.
 
