@@ -4,10 +4,10 @@ Welcome to my portfolio. Below you'll find links to my projects hosted on GitHub
 
 ## Projects
 
-1. [Palvelinten Hallinta - Tero Karvisen kurssi, Haaga-Helia](https://github.com/HMJ3/linux-course)
-2. [NGINX - Event Driven Automation (SaltStack Module)](https://github.com/HMJ3/h5-moduuli/tree/main)
+1. [Palvelinten Hallinta - SaltStack](https://github.com/HMJ3/linux-course)
+2. [Event Driven Automation - SaltStack](https://github.com/HMJ3/h5-moduuli/tree/main)
 3. [Robotic Process Automation - UiPath](https://github.com/HMJ3/UiPath)
-4. [Product Upload Automation - eCommerce automation with UiPath](https://github.com/HMJ3/ProductUploadAutomation)
+4. [Product Upload Automation - UiPath](https://github.com/HMJ3/ProductUploadAutomation)
 5. [Samba File Server Setup](https://github.com/HMJ3/samba-file-server)
 
 ## Skills
