@@ -8,7 +8,7 @@ Welcome to my portfolio. Below you'll find links to my projects hosted on GitHub
 2. [Event Driven Automation - SaltStack](https://github.com/HMJ3/h5-moduuli/tree/main)
 3. [Robotic Process Automation - UiPath](https://github.com/HMJ3/UiPath)
 4. [Product Upload Automation - UiPath](https://github.com/HMJ3/ProductUploadAutomation)
-5. [Samba File Server Setup](https://github.com/HMJ3/samba-file-server)
+5. [Samba File Server Setup - Linux](https://github.com/HMJ3/samba-file-server)
 
 ## Skills
 Linux - SaltStack - Python - Git - Automation <br>
